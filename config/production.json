@@ -1,0 +1,7 @@
+{
+  "port": 5000,
+  "jwtSecret": "daniyar mern app",
+  "mongoURI": "mongodb+srv://daniyar:251317Bakha@cluster0-gce9g.mongodb.net/test?retryWrites=true&w=majority",
+
+  "baseUrl": "http://localhost:5000"
+}
